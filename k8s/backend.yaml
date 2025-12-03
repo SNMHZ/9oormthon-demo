@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mario
-        image: 837126493345.dkr.ecr.ap-northeast-2.amazonaws.com/goormthon-4/backend:build-7
+        image: 837126493345.dkr.ecr.ap-northeast-2.amazonaws.com/goormthon-4/backend:build-14
 ---
 apiVersion: v1
 kind: Service
